@@ -1,0 +1,14 @@
+.star-rating-wrapper {
+  font-size: 40px;
+  color: goldenrod;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.star-rating-wrapper span {
+  cursor: pointer;
+}
